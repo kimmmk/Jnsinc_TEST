@@ -1,2 +1,2 @@
 banner error 
-up
+002 & up
