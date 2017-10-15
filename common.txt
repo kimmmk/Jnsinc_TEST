@@ -1,2 +1,5 @@
 kyunghwa & kimmmk & sjkook77 & shhong & LeeSeunghwa & kbe0513
 fix image error 2
+
+
+pay_error_card => ok
